@@ -1,2 +1,5 @@
 .sconsign.dblite
 .DS_Store
+arscons.elf
+arscons.hex
+build
